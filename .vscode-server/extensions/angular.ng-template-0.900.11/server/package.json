@@ -1,0 +1,15 @@
+{
+  "name": "@angular/language-server",
+  "description": "LSP server for Angular Language Service",
+  "version": "0.900.11",
+  "author": "Angular",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10.9.0 <13.0.0"
+  },
+  "dependencies": {
+    "@angular/language-service": "9.0.0",
+    "vscode-languageserver": "6.1.0",
+    "vscode-uri": "2.1.1"
+  }
+}
